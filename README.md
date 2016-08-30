@@ -1,2 +1,2 @@
 # algorithm-code
-Peronal repo for different algorithms.
+Personal repo for different algorithms.
